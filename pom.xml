@@ -115,7 +115,7 @@
                     </annotationProcessorPaths>
                 </configuration>
             </plugin>
-
+                 
             <!-- Spring Boot Maven Plugin -->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
